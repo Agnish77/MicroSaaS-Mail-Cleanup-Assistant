@@ -21,7 +21,7 @@ The Mail Cleanup Assistant is a simple MicroSaaS tool designed to help users man
    ```
 3. Install the required dependencies:
    ```
-   pip install streamlit imapclient
+   pip install -r requirements.txt
    ```
 4. Run the application:
    ```
